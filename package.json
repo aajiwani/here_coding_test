@@ -4,7 +4,8 @@
   "description": "Web pre-interview code challenge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,21 @@
   "bugs": {
     "url": "https://github.com/aajiwani/here_coding_test/issues"
   },
-  "homepage": "https://github.com/aajiwani/here_coding_test#readme"
+  "homepage": "https://github.com/aajiwani/here_coding_test#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.0.2",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
 }
