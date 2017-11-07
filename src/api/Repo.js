@@ -1,12 +1,12 @@
-export default class ReposApi
-{
-    static GetLanguages(repoName)
-    {
-        return "https://api.github.com/repos/heremaps/@name/languages".replace("@name", repoName);
-    }
+import APICaller from "lib/ApiCaller";
 
-    static GetError()
-    {
-        return "https://api.github.com/repos/heremaps/@name/languages";
-    }
+export default class ReposApi {
+  static GetLanguages(repoName) {
+    var apiUrl = 'https://api.github.com/repos/heremaps/@name/languages'.replace(
+      '@name',
+      repoName
+    );
+
+    return APICaller.Call(apiUrl).then(response => {});
+  }
 }
