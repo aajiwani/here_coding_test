@@ -1,0 +1,28 @@
+{
+  "name": "here_coding_test",
+  "version": "1.0.0",
+  "description": "Web pre-interview code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aajiwani/here_coding_test.git"
+  },
+  "keywords": [
+    "here",
+    "coding",
+    "test",
+    "web",
+    "reactjs",
+    "webpack",
+    "eslint"
+  ],
+  "author": "Amir Ali Jiwani <amirali.jiwani89@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aajiwani/here_coding_test/issues"
+  },
+  "homepage": "https://github.com/aajiwani/here_coding_test#readme"
+}
