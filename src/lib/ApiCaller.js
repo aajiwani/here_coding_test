@@ -1,7 +1,7 @@
-import ErrorCreator from "lib/ErrorCreator";
+import ErrorCreator from 'lib/ErrorCreator';
 
 export default class ApiCaller {
-  static Call(apiUrl) {
+  static Call(apiUrl: string) {
     return fetch(apiUrl).then(response => {
       // Handle errors before continuing
       if (response.status >= 200 && response.status < 300) {
