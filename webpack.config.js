@@ -4,13 +4,14 @@ var config = {
   entry: "./index.js",
 
   output: {
-    path: __dirname,
-    filename: "index.js"
+    path: path.resolve(__dirname, "build"),
+    filename: "bundle.js"
   },
 
   devServer: {
     inline: true,
-    port: 8080
+    port: 8080,
+    historyApiFallback: true
   },
 
   resolve: {

@@ -1,6 +1,7 @@
 import React from "react";
 import ApiCaller from "lib/ApiCaller";
-import * as RepoApi from "api/Repo";
+import { Button } from 'react-bootstrap';
+import { Link } from "react-router-dom";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -9,8 +10,19 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <div>
-        <h1>Hello World!</h1>
+      <div
+        className="flex-container"
+        style={{
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center"
+        }}
+      >
+        <Link to="/repositories">
+          <Button bsStyle="primary">
+            Let's Begin
+          </Button>
+        </Link>
       </div>
     );
   }
