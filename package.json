@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "test-with-coverage": "jest --coverage",
     "start": "webpack-dev-server --hot"
   },
   "repository": {
