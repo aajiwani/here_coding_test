@@ -47,18 +47,9 @@
     "babel-preset-react": "^6.24.1",
     "generator-react-promised-component": "^0.1.1",
     "jest": "^21.2.1",
+    "react-test-renderer": "^16.0.0",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4",
     "yo": "^2.0.0"
-  },
-  "jest": {
-    "moduleFileExtensions": [
-      "js",
-      "jsx"
-    ],
-    "moduleDirectories": [
-      "node_modules",
-      "src"
-    ]
   }
 }

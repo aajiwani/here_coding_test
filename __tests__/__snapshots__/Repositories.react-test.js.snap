@@ -1,0 +1,1046 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders the list of repositories owned by heremaps 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-1 col-xs-3 col-xs-offset-6"
+    >
+      <div
+        className="list-group"
+      >
+        <a
+          href="/languages/bike-navigation"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    bike-navigation
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/buildrotator-plugin"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    buildrotator-plugin
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/clcache"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    clcache
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/com.here.validate.svrl"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    com.here.validate.svrl
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/com.here.validate.svrl.overrides"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    com.here.validate.svrl.overrides
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/com.here.validate.svrl.text-rules"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    com.here.validate.svrl.text-rules
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/data-lens-javascript-examples"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    data-lens-javascript-examples
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/deployment-api"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    deployment-api
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/developer-blog"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    developer-blog
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/dita-ot-plugins"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    dita-ot-plugins
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/examples"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    examples
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/fluentd-plugin"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    fluentd-plugin
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/gradle-jenkins-jobdsl-plugin"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    gradle-jenkins-jobdsl-plugin
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/here-aaa-java-sdk"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    here-aaa-java-sdk
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/here-android-sdk-examples"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    here-android-sdk-examples
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/here-ios-sdk-examples"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    here-ios-sdk-examples
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/heremaps.github.io"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    heremaps.github.io
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/jsfiddle-github"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    jsfiddle-github
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/map-linkbuilder-app"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    map-linkbuilder-app
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/maps-api-for-javascript-examples"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    maps-api-for-javascript-examples
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/mobility-on-demand-use-cases-ios"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    mobility-on-demand-use-cases-ios
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/mobility-on-demand-use-cases-nodejs"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    mobility-on-demand-use-cases-nodejs
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/oksse"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    oksse
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/oss-review-toolkit"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    oss-review-toolkit
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/postman-collections"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    postman-collections
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/saturate-nodes-plugin"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    saturate-nodes-plugin
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+        <a
+          href="/languages/scancode-toolkit"
+          onClick={[Function]}
+        >
+          <li
+            className="list-group-item"
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-md-1 col-xs-3"
+                >
+                  <img
+                    className="img-circle"
+                    src="https://avatars0.githubusercontent.com/u/2835506?v=4"
+                    style={
+                      Object {
+                        "height": 50,
+                        "width": 50,
+                      }
+                    }
+                  />
+                </div>
+                <div
+                  className="col-md-11 col-xs-15"
+                >
+                  <div>
+                    scancode-toolkit
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
