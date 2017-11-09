@@ -4,22 +4,14 @@
   "description": "Web pre-interview code challenge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "webpack-dev-server --hot"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aajiwani/here_coding_test.git"
   },
-  "keywords": [
-    "here",
-    "coding",
-    "test",
-    "web",
-    "reactjs",
-    "webpack",
-    "eslint"
-  ],
+  "keywords": ["here", "coding", "test", "web", "reactjs", "webpack", "eslint"],
   "author": "Amir Ali Jiwani <amirali.jiwani89@gmail.com>",
   "license": "MIT",
   "bugs": {
@@ -28,6 +20,7 @@
   "homepage": "https://github.com/aajiwani/here_coding_test#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
+    "bluebird": "^3.5.1",
     "lodash": "^4.17.4",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
@@ -37,13 +30,19 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.0.2",
+    "babel-jest": "^21.2.0",
     "babel-loader": "^7.1.2",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
-    "generator-react-promised-component": "^0.1.1",
+    "jest": "^21.2.1",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4",
+    "generator-react-promised-component": "^0.1.1",
     "yo": "^2.0.0"
+  },
+  "jest": {
+    "moduleFileExtensions": ["js", "jsx"],
+    "moduleDirectories": ["node_modules", "src"]
   }
 }

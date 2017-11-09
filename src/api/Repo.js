@@ -1,12 +1,10 @@
-import APICaller from "lib/ApiCaller";
+import APICaller from 'lib/ApiCaller';
 
-export default class ReposApi {
-  static GetLanguages(repoName) {
-    var apiUrl = 'https://api.github.com/repos/heremaps/@name/languages'.replace(
-      '@name',
-      repoName
-    );
+export function GetLanguages(repoName) {
+  var apiUrl = 'https://api.github.com/repos/heremaps/@name/languages'.replace(
+    '@name',
+    repoName
+  );
 
-    return APICaller.Call(apiUrl).then(response => {});
-  }
+  return APICaller.Call(apiUrl);
 }
