@@ -4,7 +4,7 @@ function ComposedError(message, code, info) {
   var err = new Error(message);
   err.errorCode = code;
   err.attachedInfo = info;
-  err.type = "HereError";
+  err.name = "HereError";
   return err;
 }
 
